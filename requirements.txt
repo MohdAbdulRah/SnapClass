@@ -1,0 +1,31 @@
+#Utilities
+numpy 
+pandas
+
+#Face recognition
+scikit-learn
+#For detecting square around a face
+dlib-bin
+#for getting the embeddings of face 
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0  #for converting github -> wheels 
+
+#database
+supabase
+#hashing
+bcrypt
+
+
+#generating QR Code
+segno
+#preprocessing image 
+pillow
+
+#frontend
+streamlit
+
+
+#for audio processing 
+librosa
+#for getting embeddings of audio processed by librosa
+resemblyzer
